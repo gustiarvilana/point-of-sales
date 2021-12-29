@@ -96,3 +96,4 @@ php artisan serve
 ## License
 
 [MIT license](https://opensource.org/licenses/MIT)
+# point-of-sales
