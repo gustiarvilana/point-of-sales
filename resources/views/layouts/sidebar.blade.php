@@ -66,7 +66,7 @@
                 </a>
             </li>
             <li>
-                <a href="{{ route('transaksi.baru') }}">
+                <a onclick="return confirm('Are you sure?')" href="{{ route('transaksi.baru') }}">
                     <i class="fa fa-cart-arrow-down"></i> <span>Transaksi Baru</span>
                 </a>
             </li>
